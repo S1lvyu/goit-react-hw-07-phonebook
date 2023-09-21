@@ -1,0 +1,11 @@
+.item {
+  font-size: 18px;
+  margin-left: 15px;
+  display: flex;
+  gap: 10px;
+      justify-content: space-between;
+}
+.span {
+  font-weight: bold;
+  width: 150px;
+}

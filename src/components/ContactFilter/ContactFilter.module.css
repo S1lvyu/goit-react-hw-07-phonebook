@@ -1,0 +1,15 @@
+.name {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 300px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: bold;
+}
+.input {
+  height: 25px;
+  border-radius: 10px;
+  font-size: 18px;
+  padding-left: 20px;
+}
